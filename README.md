@@ -1,5 +1,7 @@
 # eloquage/lex
 
+<p align="center"><img src="art/banner.png" alt="eloquage/lex: Unicode lexical search, n-grams, and BM25" width="100%"></p>
+
 In-memory lexical retrieval for PHP with Unicode tokenization, contiguous word
 n-grams, and deterministic Lucene+ BM25 ranking.
 
